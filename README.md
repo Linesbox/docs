@@ -29,25 +29,16 @@ Not only buying and configuring all those software is a time-consuming process, 
 Linesbox is born to offer a solution to these problems.
 
 Linesbox has the following features:
-
-* Applicant tracking system (coming soon)
-* Onboarding / offboarding (coming soon)
-* Employee management
-* Team management
-* Company management
-* Time tracking
-* PTOs (ie holidays and time offs) (coming soon)
-* Expenses management
-* Hardware and software licenses
-* Project management
-* Work logs
-* Recent ships
-* Team and company news
-* Get to know your colleagues
-* Wikis
-* Employee and team morale
-* One on Ones
-* Rate your manager
-* Skills
-* Objectives Key Results (OKR) (coming soon)
-* e-Coffees
+👯 Employee and team management,
+📝 Know what you coworkers have done yesterday,
+😺 Applicant tracking system,
+👨 Employee onboarding,
+⛵️ One-on-one management,
+🕐 Time tracking,
+🏝 Holidays management,
+📃 Documents,
+💸 Expenses,
+🖥Hardware management,
+🚜Project management,
+🤖 A way to create automated flows to put your company on autopilot (can’t wait to show this feature to the world),
+and many, many other features.

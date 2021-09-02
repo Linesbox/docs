@@ -1,6 +1,6 @@
 <h1 align="center">
 	<img
-		width="300"
+		width="150"
 		alt="Linesbox"
 		src="https://app.linesbox.com/img/logo-2x.png">
 </h1>

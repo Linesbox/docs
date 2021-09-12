@@ -11,7 +11,7 @@ module.exports = {
         editLinks: true,
         sidebarDepth: 3,
         algolia: {
-            apiKey: '1d222fb835dec640f912de8ceedddead',
+            apiKey: '15d199d84b17cd3ef558c47acead7bd8',
             indexName: 'linesbox',
             appId: 'E1RRNMYU8X',
         },

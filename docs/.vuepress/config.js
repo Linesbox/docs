@@ -11,8 +11,9 @@ module.exports = {
         editLinks: true,
         sidebarDepth: 3,
         algolia: {
-            apiKey: '15d199d84b17cd3ef558c47acead7bd8',
-            indexName: 'linesbox'
+            apiKey: '1d222fb835dec640f912de8ceedddead',
+            indexName: 'linesbox',
+            appId: 'E1RRNMYU8X',
         },
         editLinkText: 'Found a typo? An error? Edit this page',
         nav: [
@@ -94,7 +95,7 @@ module.exports = {
 function getDocumentationSidebar() {
     return [
         {
-            title: '🐄 Linesbox',
+            title: '👋 Linesbox',
             collapsable: false,
             children: [
                 'introduction',

@@ -27,7 +27,7 @@
   "dependencies": {
     "@ubclaunchpad/vuepress-plugin-fathom": "https://github.com/ubclaunchpad/vuepress-plugin-fathom",
     "global": "^4.3.2",
-    "vuepress": "^1.2.0"
+    "vuepress": "^1.8.2"
   },
   "devDependencies": {
     "@vuepress/plugin-active-header-links": "^1.0.0-rc.1",

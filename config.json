@@ -1,6 +1,6 @@
 {
   "index_name": "linesbox",
-  "start_urls": ["https://glebbahmutov.com/triple-tested/"],
+  "start_urls": ["https://docs.linesbox.com/"],
   "selectors": {
     "lvl0": {
       "selector": ".site-name",
